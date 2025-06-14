@@ -1,6 +1,4 @@
-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
 
 
-
-client id: 483730342607-8ivvf2bhi4ef38tndkk3k8hf6iro9kag.apps.googleusercontent.com
-client secret: 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
+client id: 
+client secret: 
